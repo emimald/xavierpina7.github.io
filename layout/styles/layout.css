@@ -70,7 +70,9 @@ File: Layout CSS
 .latest article .meta li{display:inline-block; margin-right:8px; font-size:.8rem;}
 .latest article .meta li:last-child{margin-right:0;}
 
-.bottom-logo{text-align:center;}
+.gallery-section{padding-bottom:20px;}
+.member-list{padding-bottom:20px;}
+.bottom-logo{padding:20px 0; text-align:center;}
 .bottom-logo img{width:100px;}
 
 /* Comments */
